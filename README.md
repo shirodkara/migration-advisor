@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/open-power-sdk/migration-advisor.svg?branch=master)](https://travis-ci.org/open-power-sdk/migration-advisor)
+[![Build Status](https://travis-ci.org/shirodkara/migration-advisor.svg?branch=master)](https://travis-ci.org/open-power-sdk/migration-advisor)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/83083b5dcfe647bb8ccc05a48decafb6)](https://www.codacy.com/app/rpsene/migration-advisor?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=open-power-sdk/migration-advisor&amp;utm_campaign=Badge_Grade)
 
 # Project Description
